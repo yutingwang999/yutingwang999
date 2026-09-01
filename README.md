@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://stats.justsong.cn/api/leetcode?username=Tingting12138)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yutingwang999)
