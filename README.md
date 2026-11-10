@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://stats.justsong.cn/api/leetcode?username=Tingting12138)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yutingwang999)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yutingwang999&v=20261110)
